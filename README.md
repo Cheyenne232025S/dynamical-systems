@@ -8,4 +8,4 @@ Below is a brief description of the system Maya and I used to effectively and ef
 - We would meet every Thursday (occasionally Wednesday or Friday), discuss and compare our solutions
 - divide and assign the 5 problems to be written up in LaTex and turned in by 11:59 each Friday. We would take turns who wrote up 3/5 problems.
 
-Overall this appraoch was very successful, and it was really benefical to solidfying the material I was learning as I often would explain my answers to my partner. Additionally, wirtting up the solutions helped me solidify and understand the material as it forced me to think about it again and deliever the answer in a consice and percise way. 
+Overall this appraoch was very successful, and it was really benefical to solidfying the material I was learning as I often would explain my answers to my partner. Additionally, wirtting up the solutions helped that cause as it forced me to think about it again and deliever the answer in a consice and percise way. 
