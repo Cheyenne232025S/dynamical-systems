@@ -1,4 +1,4 @@
-# dynamical-systems
+# Dynamical Systems 
 This is a collection of dynamical system problem solutions written in LateX. This was done with a partner (Maya Datoc) every week for an entire semester.
 
 All problem sets where provided by Professor Werner and all MATLAB code associated to problem solutions where done by me (Cheyenne Erickson). 
