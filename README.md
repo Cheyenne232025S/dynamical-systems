@@ -12,3 +12,6 @@ It took a couple weeks for us to find the best system for us, so the first two S
 
 
 Overall this appraoch was very successful, and it was really benefical to solidfying the material I was learning as I often would explain my answers to my partner. Additionally, wirtting up the solutions helped that cause as it forced me to think about it again and deliever the answer in a consice and percise way. 
+
+
+I have enjoyed this CMDA course the most so far. Here I got to combine my fancy for math with computational tools to simulate real world (or close to real world) dynamical systems such as population dynamics, SIR models, Page Rank algorithms, spring-damper models, and pendulums. 
